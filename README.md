@@ -1,7 +1,7 @@
 # RollBall
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-21at08.34.50.png)
+![Scheme](/screenshots/ScreenShot2018-02-13at7.36.38PM.png)
 
 
 Unity roll ball in 3D.
